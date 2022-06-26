@@ -1,4 +1,4 @@
-# NLP--Sport-Analysis
+# NLP-Sport-Analysis
 Project 2
 
 Name: Sreeja Bellamkonda
